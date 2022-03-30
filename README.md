@@ -1,3 +1,6 @@
+Конвертер валют с использованием открытого API https://www.currencyconverterapi.com/
+Реализовано на React.js, для изменения языка использовался I18next.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

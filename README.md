@@ -1,6 +1,11 @@
 Конвертер валют с использованием открытого API https://www.currencyconverterapi.com/
 Реализовано на React.js, для изменения языка использовался I18next.
 
+Для разворота приложения:
+1. Клонируем репозиторий git clone https://github.com/Shar1892/esports-everscale.git
+2. Устанавливаем зависимости npm install
+3. Запускаем приложение npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
